@@ -27,4 +27,4 @@
 и адаптивной вёрстки без использования JavaScript.
 
 ## Демо
-GitHub Pages: (https://github.com/Yaramir777/service-page)
+GitHub Pages: (https://yaramir777.github.io/service-page/)
