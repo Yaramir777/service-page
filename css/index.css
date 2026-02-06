@@ -79,6 +79,17 @@ h2 {
   transition: background 0.3s;
 }
 
+button.navbar__link {
+  padding: 15px 20px;
+  border-radius: 15px;
+  background: #333;
+  color: #fff;
+  transition: background 0.3s;
+  border: none;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+}
+
 .navbar__link:hover,
 .navbar__link:focus {
   background: orange;
