@@ -19,7 +19,6 @@ body {
   font-family: 'Montserrat', sans-serif;
   line-height: 1.6;
   color: #222;
-  /* overflow-x: hidden; */
 }
 
 
@@ -62,6 +61,8 @@ h2 {
   gap: 20px;
   align-items: center;
   justify-content: center;
+  margin: 0px;
+  padding: 0px;
 }
 
 .navbar__item {
@@ -212,6 +213,8 @@ img {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 30px;
+    margin: 0px;
+    padding: 0px;
  }
 
 .benefits__item {
@@ -259,6 +262,8 @@ img {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
     gap: 40px;
+    margin: 0px;
+    padding: 0px;
 }
 
 .trust__item {
@@ -440,7 +445,6 @@ label:focus-within input {
   .trust__list {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr))
-
   }
 }
 
